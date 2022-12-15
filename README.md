@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Starvingwolf
+- 👋 Hi, I’m @Starvingwolf my real name is AK
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning ccna basics and little bit of linux
 - 💞️ I’m looking to collaborate on ...
